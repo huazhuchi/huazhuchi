@@ -1,4 +1,3 @@
-欢迎访问我的GitHub！👋
 <a href="#stats" align="center">
   <picture>
     <source 
