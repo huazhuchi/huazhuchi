@@ -32,7 +32,7 @@
     <img align="right" alt="Glomzzz's Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazhuchi&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css"/>
 </a>
 
-我是一名即将升入高一的学生，热爱 Minecraft 服务器管理和编程。主要使用 Kotlin、Java 和 Javascript ，同时对 NMRiH（No More Room in Hell）也有浓厚的兴趣。
+常 Minecraft 服务器管理和编程。主要使用 Kotlin、Java。
 
 #### ME：
 - 💻 热衷于 Minecraft 服务器管理、服务器核心制作
