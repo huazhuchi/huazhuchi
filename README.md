@@ -19,14 +19,12 @@
 <br>
 
 <div align="left">
-  <div align="right" style="float:right;margin-left:12px;">
-    <a href="#stats" target="_blank">
-      <img width="400px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazhuchi&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css,javascript&layout=compact">
-    </a>
-    <br>
-    <a href="https://count.getloli.com/get/@huazhuchi?theme=gelbooru" target="_blank">
-      <img alt="Visit Count" src="https://count.getloli.com/get/@huazhuchi?theme=gelbooru"/>
-    </a>
+ <!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
   </div>
 
 ### 👨‍💻 关于我
