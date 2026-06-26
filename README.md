@@ -48,22 +48,27 @@ Minecraft 服务端插件开发、服务器架构运维、数据库设计优化�
 - 📱 全栈开发：UniApp 微信小程序前后端开发，Vue 技术栈
 
 ### 🛠 完整技术栈
+<div align="center">
+
 #### 编程语言
+ &nbsp;&nbsp;  &nbsp;&nbsp; 
 
-
+<br>
 
 #### 数据库 & 中间件
+ &nbsp;&nbsp; 
 
-
+<br>
 
 #### 小程序 & 前端
+ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 
 
+<br>
 
+#### 构建 & MC生态 & 工具
+ &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; 
 
-#### 构建 & MC生态
-
-
-
+</div>
 <br clear="both">
 
 ### 📈 提交活动曲线
