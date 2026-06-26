@@ -1,4 +1,4 @@
-<!-- 两行卡片左右并排 精准各占48% 居中对齐 无错位 -->
+<!-- 顶部数据卡片 -->
 <div align="center">
   <a href="#stats">
     <picture>
@@ -18,7 +18,6 @@
 
 <br>
 
-<!-- 右侧语言排行 + 右侧访问量，左侧放个人介绍，排版不挤压 -->
 <div align="left">
   <div align="right" style="float:right;margin-left:12px;">
     <a href="#stats" target="_blank">
@@ -31,13 +30,30 @@
   </div>
 
 ### 👨‍💻 关于我
-专注 **Minecraft 服务端开发 & 服务器运维管理**，深耕插件开发、服务端架构搭建。
-**主力语言：Java / Kotlin**，常年开发Bungee/Velocity代理、Paper服务端插件、BedWars等游戏核心。
+擅长 Minecraft 服务端开发与服务器运维，同时深耕后端数据库开发、UniApp 小程序全栈开发。
+主力编程语言为 Java、Kotlin，兼顾服务端架构设计、数据存储、前后端联动开发。
 
-- 💻 擅长MC服务端插件开发、多服架构、插件底层调试
-- ☕ 主力开发语言 Java、Kotlin，熟悉MVC插件分层架构
-- 🛠 爱好服务端性能优化、跨服通信、小游戏定制开发
-- 📦 熟悉Maven插件工程、Redis跨服数据通信、Velocity代理开发
+- 💻 Minecraft：Paper/Bungee/Velocity 插件开发、多服架构、小游戏核心定制
+- 🗄️ 后端方向：关系型&非关系型数据库设计、性能优化、数据交互开发
+- 📱 前端开发：UniApp 小程序开发，全栈业务功能落地
+- ☕ 主力语言 Java、Kotlin，熟练 MVC 分层架构与工程化开发
+
+### 🛠 技术栈
+#### 编程语言
+
+
+
+#### 数据库
+
+
+
+#### 小程序 & 前端框架
+
+
+
+#### 工程 & MC服务端生态
+
+
 </div>
 
 <br clear="both">
