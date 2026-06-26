@@ -21,9 +21,6 @@
 <!-- 右侧语言排行 + 右侧访问量，左侧放个人介绍，排版不挤压 -->
 <div align="left">
   <div align="right" style="float:right;margin-left:12px;">
-    <a href="#stats" target="_blank">
-      <img width="400px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huazhuchi&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent&hide_border=true&hide=html,css,javascript&layout=compact">
-    </a>
     <br>
     <a href="https://count.getloli.com/get/@huazhuchi?theme=gelbooru" target="_blank">
       <img alt="Visit Count" src="https://count.getloli.com/get/@huazhuchi?theme=gelbooru"/>
@@ -47,5 +44,4 @@
 
 ### 📈 提交活动曲线
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=huazhuchi&theme=github-dark-transparent&hide_border=true" alt="Activity Graph">
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huazhuchi&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
